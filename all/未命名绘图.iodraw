@@ -25,8 +25,8 @@
         <mxCell id="uk_624ZfAyXylVVEC1S_-9" value="抱闸准备" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uk_624ZfAyXylVVEC1S_-12" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="uk_624ZfAyXylVVEC1S_-12" value="L1-06" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
