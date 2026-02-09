@@ -28,8 +28,16 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-32" value="小于下限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-33" value="输出上限" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="770" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IQddxeDVtNvzEQwrRqbI-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-36" value="输出上限" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
