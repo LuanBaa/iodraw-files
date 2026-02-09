@@ -17,7 +17,7 @@
           <mxGeometry x="190" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-25" value="自动给定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-29" value="水阀PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="600" width="120" height="60" as="geometry" />
@@ -43,9 +43,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="865" />
-              <mxPoint x="300" y="865" />
-              <mxPoint x="300" y="900" />
-              <mxPoint x="280" y="900" />
+              <mxPoint x="280" y="865" />
+              <mxPoint x="280" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,7 +58,12 @@
           <mxGeometry x="234" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-39" target="IQddxeDVtNvzEQwrRqbI-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="890" />
+              <mxPoint x="274" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-39" value="直接输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="770" width="80" height="40" as="geometry" />
