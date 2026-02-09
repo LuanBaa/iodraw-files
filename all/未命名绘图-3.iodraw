@@ -19,11 +19,17 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-29" value="水阀PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-31" target="IQddxeDVtNvzEQwrRqbI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-31" value="大于上限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-32" value="小于下限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="770" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
