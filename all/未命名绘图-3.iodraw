@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-1" target="IQddxeDVtNvzEQwrRqbI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-1" value="末端空调PLC自控程序流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="60" width="160" height="60" as="geometry" />
+          <mxGeometry x="334" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="180" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
