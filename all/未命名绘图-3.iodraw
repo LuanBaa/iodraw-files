@@ -24,6 +24,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-29" target="IQddxeDVtNvzEQwrRqbI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-29" target="IQddxeDVtNvzEQwrRqbI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-29" target="IQddxeDVtNvzEQwrRqbI-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-29" value="水阀PID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="620" width="120" height="60" as="geometry" />
         </mxCell>
