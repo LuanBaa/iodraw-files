@@ -10,21 +10,6 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-12" value="第一步，先打开水阀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-20" value="水阀外部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-21" value="手动综合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-22" value="自动综合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.189;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IQddxeDVtNvzEQwrRqbI-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="284" y="640" as="sourcePoint" />
-            <mxPoint x="334" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
