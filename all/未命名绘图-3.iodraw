@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IQddxeDVtNvzEQwrRqbI-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="370" height="490" as="geometry" />
+          <mxGeometry x="140" y="590" width="270" height="430" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-1" value="末端空调PLC自控程序流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="40" width="160" height="60" as="geometry" />
