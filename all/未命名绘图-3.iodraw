@@ -10,8 +10,11 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-12" value="第一步，先打开水阀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-24" value="阀门开度控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
