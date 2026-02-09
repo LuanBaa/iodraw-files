@@ -11,13 +11,13 @@
           <mxGeometry x="140" y="280" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-20" value="水阀外部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-21" value="手动综合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-22" value="手动综合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
