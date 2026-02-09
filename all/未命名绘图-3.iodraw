@@ -82,6 +82,14 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-39" value="直接输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="790" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-55" target="IQddxeDVtNvzEQwrRqbI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-55" value="阀门手自动选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
         </mxCell>
