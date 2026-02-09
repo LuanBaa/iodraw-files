@@ -15,13 +15,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-4" target="IQddxeDVtNvzEQwrRqbI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-4" value="RCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-6" value="自动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-8" value="RCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-8" value="手动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
