@@ -16,7 +16,7 @@
         <mxCell id="IQddxeDVtNvzEQwrRqbI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-12" target="IQddxeDVtNvzEQwrRqbI-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQddxeDVtNvzEQwrRqbI-12" value="RCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IQddxeDVtNvzEQwrRqbI-12" value="第一步，先打开水阀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IQddxeDVtNvzEQwrRqbI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQddxeDVtNvzEQwrRqbI-14" target="IQddxeDVtNvzEQwrRqbI-16">
