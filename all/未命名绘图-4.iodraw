@@ -63,6 +63,9 @@
         <mxCell id="tVLfx406zsmioW90DN1O-16" value="回风温度慢速变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tVLfx406zsmioW90DN1O-20" value="外环PV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="645.5" width="120" height="24.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
