@@ -19,9 +19,14 @@
         <mxCell id="tVLfx406zsmioW90DN1O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVLfx406zsmioW90DN1O-4" target="tVLfx406zsmioW90DN1O-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVLfx406zsmioW90DN1O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVLfx406zsmioW90DN1O-4">
+        <mxCell id="tVLfx406zsmioW90DN1O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.031;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tVLfx406zsmioW90DN1O-4" target="tVLfx406zsmioW90DN1O-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="510" as="targetPoint" />
+            <mxPoint x="390" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="440" />
+              <mxPoint x="410" y="440" />
+              <mxPoint x="410" y="364" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tVLfx406zsmioW90DN1O-4" value="温度内环SP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
