@@ -31,6 +31,9 @@
         <mxCell id="tVLfx406zsmioW90DN1O-4" value="温度内环SP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tVLfx406zsmioW90DN1O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVLfx406zsmioW90DN1O-6" target="tVLfx406zsmioW90DN1O-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tVLfx406zsmioW90DN1O-6" value="热水阀2执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,8 +46,8 @@
         <mxCell id="tVLfx406zsmioW90DN1O-12" value="外环闭环室内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="515.5" width="120" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="tVLfx406zsmioW90DN1O-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="660" width="110" height="20" as="geometry" />
+        <mxCell id="tVLfx406zsmioW90DN1O-14" value="热水阀2执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
