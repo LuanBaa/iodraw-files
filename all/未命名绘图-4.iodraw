@@ -46,8 +46,14 @@
         <mxCell id="tVLfx406zsmioW90DN1O-12" value="外环闭环室内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="515.5" width="120" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="tVLfx406zsmioW90DN1O-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVLfx406zsmioW90DN1O-14" target="tVLfx406zsmioW90DN1O-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tVLfx406zsmioW90DN1O-14" value="送风温度快速变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tVLfx406zsmioW90DN1O-16" value="回风温度慢速变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
